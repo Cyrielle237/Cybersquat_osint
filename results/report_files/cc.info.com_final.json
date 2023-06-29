@@ -1,0 +1,595 @@
+[
+    {
+        "fuzzer": "*original",
+        "domain": "cc.info.com",
+        "dns_ns": [
+            "ethan.ns.cloudflare.com"
+        ],
+        "dns_a": [
+            "104.18.24.229"
+        ],
+        "dns_aaaa": [
+            "2606:4700::6812:18e5"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "cc.infof.com",
+        "dns_ns": [
+            "ns3.afternic.com"
+        ],
+        "dns_a": [
+            "13.248.169.48"
+        ],
+        "dns_mx": [
+            ""
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "cc.info8.com",
+        "dns_a": [
+            "148.72.41.59"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "cc.infop.com",
+        "dns_a": [
+            "173.255.194.134"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "cc.infoy.com",
+        "dns_a": [
+            "173.255.194.134"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "cc.info7.com",
+        "dns_a": [
+            "178.33.82.204"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "cc.infoe.com",
+        "dns_a": [
+            "183.181.83.111"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "cc.info0.com",
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "dns_a": [
+            "185.53.177.52"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "cc.info2.com",
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "dns_a": [
+            "185.53.177.52"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "cc.infog.com",
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "dns_a": [
+            "185.53.177.54"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "cc.infov.com",
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "dns_a": [
+            "185.53.178.52"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "cc.infom.com",
+        "dns_ns": [
+            "ns3.cypack.com"
+        ],
+        "dns_a": [
+            "202.31.187.154"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "cc.infou.com",
+        "dns_a": [
+            "208.91.197.128"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "cc.info6.com",
+        "dns_ns": [
+            "ns1.dan.com"
+        ],
+        "dns_a": [
+            "3.64.163.50"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "cc.infob.com",
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "dns_a": [
+            "64.190.63.111"
+        ],
+        "dns_mx": [
+            "localhost"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "cc.infow.com",
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "dns_a": [
+            "64.190.63.111"
+        ],
+        "dns_mx": [
+            "localhost"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "cc.infoi.com",
+        "dns_a": [
+            "65.254.250.103"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "cc.infg.com",
+        "dns_ns": [
+            "ns1.namefind.com"
+        ],
+        "dns_a": [
+            "13.248.169.48"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "cc.knfo.com",
+        "dns_ns": [
+            "ns1.namefind.com"
+        ],
+        "dns_a": [
+            "13.248.169.48"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "cc.infn.com",
+        "dns_a": [
+            "149.28.121.93"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "cc.inbo.com",
+        "dns_a": [
+            "159.223.19.206"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "cc.infk.com",
+        "dns_ns": [
+            "ns1.mytrafficmanagement.com"
+        ],
+        "dns_a": [
+            "173.255.194.134"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "cc.hnfo.com",
+        "dns_ns": [
+            "ns1.dan.com"
+        ],
+        "dns_a": [
+            "3.64.163.50"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "cc.anfo.com",
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "dns_a": [
+            "64.190.63.111"
+        ],
+        "dns_mx": [
+            "localhost"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "cc.ynfo.com",
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "dns_a": [
+            "64.190.63.111"
+        ],
+        "dns_mx": [
+            "localhost"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "cc.invo.com",
+        "dns_a": [
+            "74.208.236.122"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "cc.lrfo.com",
+        "dns_a": [
+            "13.248.169.48"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "cc.lmfo.com",
+        "dns_a": [
+            "159.89.244.183"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "cc.1mfo.com",
+        "dns_a": [
+            "184.170.243.50"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "cc.innfo.com",
+        "dns_a": [
+            "198.57.247.170"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "cc.1nf0.com",
+        "dns_ns": [
+            "nsg1.namebrightdns.com"
+        ],
+        "dns_a": [
+            "3.18.7.81"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "cc.inf0.com",
+        "dns_ns": [
+            "domain-for-sale.hugedomainsdns.com"
+        ],
+        "dns_a": [
+            "3.18.7.81"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "cc.xn--inf-ina.com",
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "dns_a": [
+            "64.190.63.111"
+        ],
+        "dns_mx": [
+            "localhost"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "hyphenation",
+        "domain": "cc.inf-o.com",
+        "dns_a": [
+            "209.17.116.9"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "hyphenation",
+        "domain": "cc.in-fo.com",
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "dns_a": [
+            "64.190.63.111"
+        ],
+        "dns_mx": [
+            "localhost"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "cc.intfo.com",
+        "dns_a": [
+            "182.61.201.50"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "cc.infgo.com",
+        "dns_ns": [
+            "ns111403.ztomy.com"
+        ],
+        "dns_a": [
+            "199.191.50.103"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "cc.infto.com",
+        "dns_a": [
+            "199.59.243.223"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "cc.infco.com",
+        "dns_a": [
+            "212.36.76.12"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "cc.incfo.com",
+        "dns_ns": [
+            "nsg1.namebrightdns.com"
+        ],
+        "dns_a": [
+            "3.94.41.167"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "cc.invfo.com",
+        "dns_ns": [
+            "nsg1.namebrightdns.com"
+        ],
+        "dns_a": [
+            "52.71.57.184"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "repetition",
+        "domain": "cc.iinfo.com",
+        "dns_ns": [
+            "ns1.mytrafficmanagement.com"
+        ],
+        "dns_a": [
+            "173.255.194.134"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "repetition",
+        "domain": "cc.inffo.com",
+        "dns_a": [
+            "5.22.145.121"
+        ],
+        "dns_aaaa": [
+            "2a00:18e0:5:2:7577:4e4d:413b:f507"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "cc.ihfo.com",
+        "dns_a": [
+            "119.147.214.20"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "cc.inco.com",
+        "dns_a": [
+            "185.53.177.31"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "cc.infl.com",
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "dns_a": [
+            "185.53.178.51"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "cc.jnfo.com",
+        "dns_a": [
+            "192.198.80.149"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "cc.infp.com",
+        "dns_a": [
+            "192.64.151.240"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "cc.inf9.com",
+        "dns_ns": [
+            "nsg1.namebrightdns.com"
+        ],
+        "dns_a": [
+            "3.94.41.167"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "subdomain",
+        "domain": "cc.in.fo.com",
+        "dns_a": [
+            "82.192.82.227"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "transposition",
+        "domain": "cc.ifno.com",
+        "dns_ns": [
+            "ns1.namefind.com"
+        ],
+        "dns_a": [
+            "13.248.169.48"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "transposition",
+        "domain": "cc.inof.com",
+        "dns_a": [
+            "185.37.70.63"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "various",
+        "domain": "cc.infocom.com",
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "dns_a": [
+            "185.53.177.51"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "various",
+        "domain": "ccinfo.com",
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "dns_a": [
+            "185.53.178.54",
+            "104.247.82.54"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ],
+        "potentially_malicious": "N"
+    },
+    {
+        "fuzzer": "various",
+        "domain": "cc-info.com",
+        "dns_ns": [
+            "NS1.DOMAINRECOVER.com"
+        ],
+        "dns_a": [
+            "66.45.246.141"
+        ]
+    },
+    {
+        "fuzzer": "vowel-swap",
+        "domain": "cc.infu.com",
+        "dns_ns": [
+            "ns1.dan.com"
+        ],
+        "dns_a": [
+            "3.64.163.50"
+        ],
+        "comment": "Nothing found fot this domain name"
+    },
+    {
+        "fuzzer": "vowel-swap",
+        "domain": "cc.infe.com",
+        "dns_a": [
+            "75.126.100.9"
+        ],
+        "comment": "Nothing found fot this domain name"
+    }
+]

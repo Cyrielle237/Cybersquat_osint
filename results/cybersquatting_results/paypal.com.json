@@ -1,0 +1,2222 @@
+[
+    {
+        "fuzzer": "*original",
+        "domain": "paypal.com",
+        "dns_ns": [
+            "ns1.p57.dynect.net"
+        ],
+        "dns_a": [
+            "64.4.250.36"
+        ],
+        "dns_mx": [
+            "mx1.paypalcorp.com"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "paypale.com",
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "paypalk.com",
+        "dns_ns": [
+            "ns1.domainmx.com"
+        ],
+        "dns_a": [
+            "104.237.196.116"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "paypalt.com",
+        "dns_ns": [
+            "ns1.namefind.com"
+        ],
+        "dns_a": [
+            "13.248.169.48"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "paypalf.com",
+        "dns_ns": [
+            "ns49.domaincontrol.com"
+        ],
+        "dns_a": [
+            "15.197.142.173"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "paypaln.com",
+        "dns_ns": [
+            "jm1.dns.com"
+        ],
+        "dns_a": [
+            "154.80.157.202"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "paypali.com",
+        "dns_a": [
+            "159.89.244.183"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "paypalo.com",
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "dns_a": [
+            "185.53.177.53"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "paypala.com",
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "dns_a": [
+            "185.53.178.10"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "paypalq.com",
+        "dns_a": [
+            "3.133.65.148"
+        ],
+        "dns_aaaa": [
+            "2600:1f16:389:3100:20ef:8b14:2b57:72b3"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "paypall.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "3.33.139.32"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "paypalx.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "3.33.139.32"
+        ],
+        "dns_mx": [
+            "bh.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "paypaly.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "3.33.139.32"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "paypalm.com",
+        "dns_ns": [
+            "ns1.dan.com"
+        ],
+        "dns_a": [
+            "3.64.163.50"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "paypal3.com",
+        "dns_ns": [
+            "ns31.domaincontrol.com"
+        ],
+        "dns_a": [
+            "34.98.99.30"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "paypalz.com",
+        "dns_ns": [
+            "ns19.domaincontrol.com"
+        ],
+        "dns_a": [
+            "34.98.99.30"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "paypalv.com",
+        "dns_ns": [
+            "ns1.dnsowl.com"
+        ],
+        "dns_a": [
+            "66.152.173.4"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "paypal5.com",
+        "dns_ns": [
+            "ns1.parklogic.com"
+        ],
+        "dns_a": [
+            "72.52.178.23"
+        ],
+        "dns_mx": [
+            "mx156.hostedmxserver.com"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "paypals.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "99.83.176.46"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "paypal8.com",
+        "dns_ns": [
+            "catfish.dnspod.net"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "qaypal.com",
+        "dns_ns": [
+            "ben.ns.cloudflare.com"
+        ],
+        "dns_a": [
+            "104.21.71.112"
+        ],
+        "dns_aaaa": [
+            "2606:4700:3033::6815:4770"
+        ],
+        "dns_mx": [
+            "localhost.qaypal.com"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "paypcl.com",
+        "dns_ns": [
+            "ns1.gname.net"
+        ],
+        "dns_a": [
+            "108.186.154.128"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "pay0al.com",
+        "dns_ns": [
+            "ns1.redmonddc.com"
+        ],
+        "dns_a": [
+            "134.119.176.27"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "paypam.com",
+        "dns_ns": [
+            "ns55.domaincontrol.com"
+        ],
+        "dns_a": [
+            "15.197.142.173"
+        ],
+        "dns_mx": [
+            "mailstore1.secureserver.net"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "raypal.com",
+        "dns_a": [
+            "159.89.244.183"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "paqpal.com",
+        "dns_ns": [
+            "nsg1.namebrightdns.com"
+        ],
+        "dns_a": [
+            "18.119.154.66"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "paypel.com",
+        "dns_ns": [
+            "ns1.domainmx.com"
+        ],
+        "dns_a": [
+            "185.107.56.203"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "paxpal.com",
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "dns_a": [
+            "185.53.177.53"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "paypil.com",
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "dns_a": [
+            "185.53.177.53"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "0aypal.com",
+        "dns_ns": [
+            "ns1.redmonddc.com"
+        ],
+        "dns_a": [
+            "192.155.108.152"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "paypad.com",
+        "dns_ns": [
+            "ns1.domaindiscover.com"
+        ],
+        "dns_a": [
+            "204.246.191.23"
+        ],
+        "dns_aaaa": [
+            "2600:9000:2191:1e00:7:a279:4580:93a1"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "payqal.com",
+        "dns_a": [
+            "207.148.248.143"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "pa9pal.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "3.33.139.32"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "paipal.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "3.33.139.32"
+        ],
+        "dns_mx": [
+            "bh.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "payral.com",
+        "dns_ns": [
+            "ns1.dan.com"
+        ],
+        "dns_a": [
+            "3.64.163.50"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "piypal.com",
+        "dns_ns": [
+            "ns1.dan.com"
+        ],
+        "dns_a": [
+            "3.64.163.50"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "pqypal.com",
+        "dns_ns": [
+            "ns1.dan.com"
+        ],
+        "dns_a": [
+            "3.64.163.50"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "taypal.com",
+        "dns_ns": [
+            "nsg1.namebrightdns.com"
+        ],
+        "dns_a": [
+            "34.205.242.146"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "paypah.com",
+        "dns_ns": [
+            "ns1.domain-is-4-sale-at-domainmarket.com"
+        ],
+        "dns_a": [
+            "44.196.175.17"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "paypan.com",
+        "dns_ns": [
+            "ns1.dne.com"
+        ],
+        "dns_a": [
+            "76.223.35.103"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "paypql.com",
+        "dns_ns": [
+            "ns1.rentondc.com"
+        ],
+        "dns_a": [
+            "93.115.28.104"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "peypal.com",
+        "dns_ns": [
+            "ns1.rentondc.com"
+        ],
+        "dns_a": [
+            "93.115.28.104"
+        ]
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "paytal.com",
+        "dns_ns": [
+            "ns1.smtmdns.com"
+        ],
+        "dns_a": [
+            "95.211.189.152"
+        ]
+    },
+    {
+        "fuzzer": "cyrillic",
+        "domain": "xn--80aa0cbo65f.com",
+        "dns_ns": [
+            "ns-cloud-b1.googledomains.com"
+        ],
+        "dns_a": [
+            "185.199.108.153"
+        ],
+        "dns_mx": [
+            "alt1.gmr-smtp-in.l.google.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--paypa-8nc.com",
+        "dns_ns": [
+            "ns63.domaincontrol.com"
+        ],
+        "dns_a": [
+            "107.170.208.152"
+        ],
+        "dns_mx": [
+            "mailstore1.secureserver.net"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--paypa-o7a.com",
+        "dns_ns": [
+            "dns1.registrar-servers.com"
+        ],
+        "dns_a": [
+            "162.255.119.200"
+        ],
+        "dns_mx": [
+            "mx01.mail.icloud.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--paypl-pra.com",
+        "dns_ns": [
+            "ns3.binero.se"
+        ],
+        "dns_a": [
+            "195.74.38.62"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "paypa1.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "3.33.139.32"
+        ],
+        "dns_mx": [
+            "bh.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--paya-31a2875b.com",
+        "dns_ns": [
+            "ns55.domaincontrol.com"
+        ],
+        "dns_a": [
+            "34.102.136.180"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-0na4r.com",
+        "dns_ns": [
+            "ns03.domaincontrol.com"
+        ],
+        "dns_a": [
+            "34.102.136.180"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-5nau.com",
+        "dns_ns": [
+            "ns59.domaincontrol.com"
+        ],
+        "dns_a": [
+            "34.102.136.180"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-qsac.com",
+        "dns_ns": [
+            "ns49.domaincontrol.com"
+        ],
+        "dns_a": [
+            "34.102.136.180"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-q5bc.com",
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "dns_a": [
+            "64.190.63.111"
+        ],
+        "dns_mx": [
+            "localhost"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypa-5na99c.com",
+        "dns_ns": [
+            "ns1.digitalocean.com"
+        ],
+        "dns_a": [
+            "91.215.155.6"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--aypal-ytb.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "99.83.176.46"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--paypa-z6a.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "99.83.176.46"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--paypl-iwa.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "99.83.176.46"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-5nac.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "99.83.176.46"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-boac.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "99.83.176.46"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-btac.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "99.83.176.46"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--aypal-ho1b.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--aypal-ipb.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--aypal-to1b.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--papa1-3va.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--papal-3va.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--papal-hy1b.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--papal-ouc.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--papal-rva.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--papal-wec.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--papl-2na8p.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--papl-doa6o.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--payal-1tb.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--payal-lpb.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--payal-wo1b.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--payp1-0qa.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--payp1-6qa.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--payp1-dra.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--payp1-jra.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--payp1-uqa.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--paypa-b6a.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--paypa-loc.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--paypa-n6a.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--paypa-r4a.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--paypl-0qa.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--paypl-6qa.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--paypl-dra.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--paypl-jra.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--paypl-m11b.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--paypl-nwb.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--paypl-uqa.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--paypl-uwa.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--paypl-wcc.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--ppal-0na0q.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--ppal-boa8o.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--ppl-9kab8p.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--ppl-ilab6o.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pyp1-0nac.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pyp1-5nac.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pyp1-boac.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pyp1-goac.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pyp1-loac.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypa-bta74a.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypa1-3qa.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypa1-9qa.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypa1-gra.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypa1-rqa.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypa1-xqa.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypal-0jc.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypal-3qa.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypal-3wa.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypal-gra.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypal-kwb.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypal-mra.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypal-rqa.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypal-rwa.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypal-tcc.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypal-xqa.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-0nac.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-0nai.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-0nao.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-0nau.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-2nad.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-2naj.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-2nap.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-5na0a.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-5nai.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-5nao.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-7nad.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-7naj.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-boai.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-doad.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-goac.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-loac.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "xn--pypl-soa9n.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "hyphenation",
+        "domain": "payp-al.com",
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "dns_a": [
+            "103.224.212.225"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ]
+    },
+    {
+        "fuzzer": "hyphenation",
+        "domain": "paypa-l.com",
+        "dns_ns": [
+            "ns1.gname.net"
+        ],
+        "dns_a": [
+            "160.124.19.145"
+        ]
+    },
+    {
+        "fuzzer": "hyphenation",
+        "domain": "pa-ypal.com",
+        "dns_ns": [
+            "dns1.supremedns.com"
+        ],
+        "dns_a": [
+            "162.210.102.44"
+        ],
+        "dns_mx": [
+            "mx1.supremebox.com"
+        ]
+    },
+    {
+        "fuzzer": "hyphenation",
+        "domain": "pay-pal.com",
+        "dns_ns": [
+            "dns101.register.com"
+        ],
+        "dns_a": [
+            "216.21.239.197"
+        ]
+    },
+    {
+        "fuzzer": "hyphenation",
+        "domain": "p-aypal.com",
+        "dns_ns": [
+            "ns1.pql.net"
+        ],
+        "dns_a": [
+            "54.235.212.68"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "payplal.com",
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "dns_a": [
+            "103.224.182.232"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "pa6ypal.com",
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "patypal.com",
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "pay6pal.com",
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "payp0al.com",
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "paypqal.com",
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "paypsal.com",
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "payhpal.com",
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "dns_a": [
+            "103.224.182.252"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "pawypal.com",
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "dns_a": [
+            "103.224.212.221"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "payxpal.com",
+        "dns_ns": [
+            "ns0.directnic.com"
+        ],
+        "dns_a": [
+            "104.143.9.210"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "paypayl.com",
+        "dns_ns": [
+            "ns1.redmonddc.com"
+        ],
+        "dns_a": [
+            "134.119.176.20"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "paypawl.com",
+        "dns_ns": [
+            "ns41.domaincontrol.com"
+        ],
+        "dns_a": [
+            "15.197.142.173"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "pagypal.com",
+        "dns_ns": [
+            "ns1.gname.net"
+        ],
+        "dns_a": [
+            "154.197.182.108"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "paypwal.com",
+        "dns_ns": [
+            "ns1.gname.net"
+        ],
+        "dns_a": [
+            "156.237.192.92"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "payopal.com",
+        "dns_ns": [
+            "ns1.domainmx.com"
+        ],
+        "dns_a": [
+            "172.93.194.58"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "paqypal.com",
+        "dns_ns": [
+            "ns1.rentondc.com"
+        ],
+        "dns_a": [
+            "172.98.192.36"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "payapal.com",
+        "dns_ns": [
+            "ns1.mytrafficmanagement.com"
+        ],
+        "dns_a": [
+            "173.255.194.134"
+        ],
+        "dns_mx": [
+            "mail.mailerhost.net"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "paypasl.com",
+        "dns_ns": [
+            "ns1.trafficcontrolrouter.com"
+        ],
+        "dns_a": [
+            "173.255.194.134"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "pyaypal.com",
+        "dns_ns": [
+            "ns1.mytrafficmanagement.com"
+        ],
+        "dns_a": [
+            "173.255.194.134"
+        ],
+        "dns_mx": [
+            "mail.mailerhost.net"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "paypzal.com",
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "dns_a": [
+            "185.53.178.50"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "pzaypal.com",
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "dns_a": [
+            "185.53.178.50"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "pazypal.com",
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "dns_a": [
+            "185.53.178.54"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "pasypal.com",
+        "dns_ns": [
+            "ns1.bodis.com"
+        ],
+        "dns_a": [
+            "199.59.243.223"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "paypazl.com",
+        "dns_ns": [
+            "april.ns.cloudflare.com"
+        ],
+        "dns_a": [
+            "199.59.243.223"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "paytpal.com",
+        "dns_ns": [
+            "ns1.bodis.com"
+        ],
+        "dns_a": [
+            "199.59.243.223"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "paaypal.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "3.33.139.32"
+        ],
+        "dns_mx": [
+            "bh.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "payypal.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "3.33.139.32"
+        ],
+        "dns_mx": [
+            "bh.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "psaypal.com",
+        "dns_ns": [
+            "ns1.dan.com"
+        ],
+        "dns_a": [
+            "3.64.163.50"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "pa7ypal.com",
+        "dns_ns": [
+            "curitiba.ns.porkbun.com"
+        ],
+        "dns_a": [
+            "44.227.65.245"
+        ],
+        "dns_mx": [
+            "fwd1.porkbun.com"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "pay7pal.com",
+        "dns_ns": [
+            "curitiba.ns.porkbun.com"
+        ],
+        "dns_a": [
+            "44.227.65.245"
+        ],
+        "dns_mx": [
+            "fwd1.porkbun.com"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "paxypal.com",
+        "dns_ns": [
+            "curitiba.ns.porkbun.com"
+        ],
+        "dns_a": [
+            "44.230.85.241"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "paygpal.com",
+        "dns_ns": [
+            "ns1.gname.net"
+        ],
+        "dns_a": [
+            "45.39.143.136"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "payp1al.com",
+        "dns_ns": [
+            "dns1.registrar-servers.com"
+        ],
+        "dns_a": [
+            "45.76.28.55"
+        ],
+        "dns_mx": [
+            "eforward1.registrar-servers.com"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "paypoal.com",
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "dns_a": [
+            "64.190.63.111"
+        ],
+        "dns_mx": [
+            "localhost"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "payupal.com",
+        "dns_ns": [
+            "ns1.parklogic.com"
+        ],
+        "dns_a": [
+            "67.225.218.6"
+        ],
+        "dns_mx": [
+            "mx156.hostedmxserver.com"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "paylpal.com",
+        "dns_ns": [
+            "ns1.parklogic.com"
+        ],
+        "dns_a": [
+            "67.227.226.240"
+        ],
+        "dns_mx": [
+            "mx156.hostedmxserver.com"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "pqaypal.com",
+        "dns_ns": [
+            "ns1.redfoxdns.com"
+        ],
+        "dns_a": [
+            "77.247.182.242"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "pahypal.com",
+        "dns_ns": [
+            "ns1.redfoxdns.com"
+        ],
+        "dns_a": [
+            "77.247.182.248"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "pauypal.com",
+        "dns_a": [
+            "91.195.240.40"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "paypaql.com",
+        "dns_ns": [
+            "ns1.rentondc.com"
+        ],
+        "dns_a": [
+            "93.115.28.104"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "pwaypal.com",
+        "dns_ns": [
+            "ns1.rentondc.com"
+        ],
+        "dns_a": [
+            "93.115.28.104"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "paypyal.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "99.83.176.46"
+        ]
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "payspal.com",
+        "dns_ns": [
+            "ns17.domaincontrol.com"
+        ],
+        "dns_mx": [
+            "alt1.aspmx.l.google.com"
+        ]
+    },
+    {
+        "fuzzer": "omission",
+        "domain": "pypal.com",
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "dns_a": [
+            "103.224.182.238"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ]
+    },
+    {
+        "fuzzer": "omission",
+        "domain": "aypal.com",
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ]
+    },
+    {
+        "fuzzer": "omission",
+        "domain": "papal.com",
+        "dns_ns": [
+            "dns1.supremedns.com"
+        ],
+        "dns_a": [
+            "162.210.102.44"
+        ],
+        "dns_mx": [
+            "mx1.supremebox.com"
+        ]
+    },
+    {
+        "fuzzer": "omission",
+        "domain": "paypl.com",
+        "dns_ns": [
+            "dns1.name-services.com"
+        ],
+        "dns_a": [
+            "64.98.135.58"
+        ],
+        "dns_mx": [
+            "mx.paypl.com.cust.a.hostedemail.com"
+        ]
+    },
+    {
+        "fuzzer": "omission",
+        "domain": "payal.com",
+        "dns_ns": [
+            "ns118550.ztomy.com"
+        ],
+        "dns_a": [
+            "66.81.203.11"
+        ]
+    },
+    {
+        "fuzzer": "omission",
+        "domain": "paypa.com",
+        "dns_ns": [
+            "ns1.dnsowl.com"
+        ]
+    },
+    {
+        "fuzzer": "repetition",
+        "domain": "paypaal.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "3.33.139.32"
+        ],
+        "dns_mx": [
+            "bh.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "repetition",
+        "domain": "payppal.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "3.33.139.32"
+        ],
+        "dns_mx": [
+            "bh.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "repetition",
+        "domain": "ppaypal.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "3.33.139.32"
+        ],
+        "dns_mx": [
+            "bh.markmonitor.com"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "oaypal.com",
+        "dns_ns": [
+            "ns1.domainmx.com"
+        ],
+        "dns_a": [
+            "104.237.196.115"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "pagpal.com",
+        "dns_ns": [
+            "ns3.afternic.com"
+        ],
+        "dns_a": [
+            "13.248.169.48"
+        ],
+        "dns_mx": [
+            ""
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "patpal.com",
+        "dns_ns": [
+            "ns1.domainmx.com"
+        ],
+        "dns_a": [
+            "172.93.194.59"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "paupal.com",
+        "dns_ns": [
+            "ns1.rentondc.com"
+        ],
+        "dns_a": [
+            "172.98.192.36"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "pa6pal.com",
+        "dns_ns": [
+            "april.ns.cloudflare.com"
+        ],
+        "dns_a": [
+            "199.59.243.223"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "paypak.com",
+        "dns_ns": [
+            "ns1.bodis.com"
+        ],
+        "dns_a": [
+            "199.59.243.223"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "paypao.com",
+        "dns_ns": [
+            "ns1.bodis.com"
+        ],
+        "dns_a": [
+            "199.59.243.223"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "paypap.com",
+        "dns_ns": [
+            "ns1.bodis.com"
+        ],
+        "dns_a": [
+            "199.59.243.223"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "paypyl.com",
+        "dns_ns": [
+            "ns1.bodis.com"
+        ],
+        "dns_a": [
+            "199.59.243.223"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "paspal.com",
+        "dns_ns": [
+            "ns1.dan.com"
+        ],
+        "dns_a": [
+            "3.64.163.50"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "paypwl.com",
+        "dns_ns": [
+            "ns1.kirklanddc.com"
+        ],
+        "dns_a": [
+            "37.48.65.145"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "maypal.com",
+        "dns_a": [
+            "43.128.7.87"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "pa7pal.com",
+        "dns_ns": [
+            "curitiba.ns.porkbun.com"
+        ],
+        "dns_a": [
+            "44.230.85.241"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "paapal.com",
+        "dns_ns": [
+            "ns1.tacomadc.com"
+        ],
+        "dns_a": [
+            "5.79.79.209"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "paypsl.com",
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "dns_a": [
+            "64.190.63.111"
+        ],
+        "dns_mx": [
+            "localhost"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "pzypal.com",
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "dns_a": [
+            "64.190.63.111"
+        ],
+        "dns_mx": [
+            "localhost"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "laypal.com",
+        "dns_ns": [
+            "ns1.opensrsdns.com"
+        ],
+        "dns_a": [
+            "66.63.171.125"
+        ],
+        "dns_mx": [
+            "mail.laypal.com"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "psypal.com",
+        "dns_ns": [
+            "ns1cny.name.com"
+        ],
+        "dns_a": [
+            "75.126.104.249"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "paymal.com",
+        "dns_ns": [
+            "ns5.mpower.nl"
+        ],
+        "dns_a": [
+            "91.195.240.101"
+        ],
+        "dns_mx": [
+            "mail.paymal.com"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "paylal.com",
+        "dns_ns": [
+            "ns1.rentondc.com"
+        ],
+        "dns_a": [
+            "93.115.28.104"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "payoal.com",
+        "dns_ns": [
+            "ns1.rentondc.com"
+        ],
+        "dns_a": [
+            "93.115.28.104"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "paypzl.com",
+        "dns_ns": [
+            "ns1.rentondc.com"
+        ],
+        "dns_a": [
+            "93.115.28.104"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "pwypal.com",
+        "dns_ns": [
+            "ns1.rentondc.com"
+        ],
+        "dns_a": [
+            "93.115.28.104"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "pahpal.com",
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "dns_a": [
+            "99.83.176.46"
+        ]
+    },
+    {
+        "fuzzer": "subdomain",
+        "domain": "p.aypal.com",
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ]
+    },
+    {
+        "fuzzer": "subdomain",
+        "domain": "pa.ypal.com",
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ]
+    },
+    {
+        "fuzzer": "subdomain",
+        "domain": "pay.pal.com",
+        "dns_a": [
+            "64.99.64.37"
+        ]
+    },
+    {
+        "fuzzer": "transposition",
+        "domain": "paypla.com",
+        "dns_ns": [
+            "karina.ns.cloudflare.com"
+        ],
+        "dns_a": [
+            "104.21.83.78"
+        ],
+        "dns_aaaa": [
+            "2606:4700:3031::6815:534e"
+        ],
+        "dns_mx": [
+            "alt1.aspmx.l.google.com"
+        ]
+    },
+    {
+        "fuzzer": "transposition",
+        "domain": "payapl.com",
+        "dns_ns": [
+            "ns1.domainmx.com"
+        ],
+        "dns_a": [
+            "185.107.56.205"
+        ]
+    },
+    {
+        "fuzzer": "transposition",
+        "domain": "papyal.com",
+        "dns_ns": [
+            "ns1.emu-dns.com"
+        ],
+        "dns_a": [
+            "37.48.65.143"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ]
+    },
+    {
+        "fuzzer": "transposition",
+        "domain": "pyapal.com",
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "dns_a": [
+            "64.190.63.111"
+        ],
+        "dns_mx": [
+            "localhost"
+        ]
+    },
+    {
+        "fuzzer": "transposition",
+        "domain": "apypal.com",
+        "dns_ns": [
+            "ns1.rentondc.com"
+        ],
+        "dns_a": [
+            "93.115.28.104"
+        ]
+    },
+    {
+        "fuzzer": "various",
+        "domain": "paypalcom.com",
+        "dns_a": [
+            "199.59.243.223"
+        ]
+    },
+    {
+        "fuzzer": "vowel-swap",
+        "domain": "paypol.com",
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "dns_a": [
+            "103.224.182.245"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ]
+    },
+    {
+        "fuzzer": "vowel-swap",
+        "domain": "puypal.com",
+        "dns_ns": [
+            "ns1.dan.com"
+        ],
+        "dns_a": [
+            "3.64.163.50"
+        ]
+    },
+    {
+        "fuzzer": "vowel-swap",
+        "domain": "poypal.com",
+        "dns_ns": [
+            "ns1.monikerdns.net"
+        ],
+        "dns_a": [
+            "5.22.145.121"
+        ],
+        "dns_aaaa": [
+            "2a00:18e0:5:2:7577:4e4d:413b:f507"
+        ]
+    },
+    {
+        "fuzzer": "vowel-swap",
+        "domain": "paypul.com",
+        "dns_ns": [
+            "ns1.torresdns.com"
+        ],
+        "dns_a": [
+            "78.41.204.38"
+        ]
+    }
+]
