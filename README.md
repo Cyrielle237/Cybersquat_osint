@@ -19,7 +19,6 @@ VT_KEY = "ENTER THE KEY"
 Launch the project by executing the file cybersquat.py
 ```bash
 python cyberquat.py
-#
 ```
 Then enter the domain name  you want to test, and wait
 ```bash
